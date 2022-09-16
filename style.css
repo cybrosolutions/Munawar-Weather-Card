@@ -1,0 +1,33 @@
+body{
+    background-color: #a5a5b1;
+}
+.card{
+    margin: 12% auto;
+    border-radius: 35px;
+}
+.info{
+    display: flex;
+    justify-content: space-between;
+    color: gray;
+}
+.temperature{
+    text-align: center;
+    margin: 20px 0 10px 0;
+    font-size: 45px;
+}
+.condition{
+    color: gray;
+    text-align: center;
+    display: block;
+    margin: 20px 0 30px 0;
+}
+.city-info{
+    font-size: 13px;
+}
+.icon{
+    margin: 8px 0;
+}
+.main-icon{
+    font-size: 100px;
+    color: #b0c1d3;
+}
